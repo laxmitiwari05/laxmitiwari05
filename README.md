@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Laxmi Tiwari</h1>
+<h3 align="center">🚀 Python Enthusiast | 💼 Job-ready Developer | 🎯 Focused on Real-World Projects</h3>
 
-<!--
-**laxmitiwari05/laxmitiwari05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 I’m currently learning **Python**, **SQL**, and **Backend Projects**
+- 🎯 Actively building real-world apps like a **Smart Resume Checker**
+- 💻 Open to new opportunities in **Software Development / Data Roles**
+- 📚 Love converting concepts into projects that solve actual problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+```python
+Languages: Python, SQL, HTML, CSS, JavaScript  
+Tools & Libraries: Streamlit, Git, Pandas, NumPy, PDFPlumber, Selenium  
+Database: MySQL, SQLite  
