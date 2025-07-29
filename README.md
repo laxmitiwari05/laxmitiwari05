@@ -16,7 +16,7 @@
 Languages: Python, SQL, HTML, CSS, JavaScript  
 Tools & Libraries: Streamlit, Git, Pandas, NumPy, PDFPlumber, Selenium  
 Database: MySQL, SQLite  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laxmitiwari05&show_icons=true&theme=tokyonight" alt="Laxmi's GitHub stats" width="60%"/> </p>
+
 
 📫 Connect With Me
 🌐 [LinkedIn]([url](https://www.linkedin.com/in/laxmitiwari05/))
